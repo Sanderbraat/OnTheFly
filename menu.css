@@ -1,0 +1,84 @@
+body {
+  background: url("https://www.dropbox.com/s/zk8f0bwzkiybr0b/pero-kalimero-9BJRGlqoIUk-unsplash.jpg?raw=1") no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ font-family: 'verdana';
+}
+
+.linkstijl{
+	color:white;
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 1px;
+}
+
+.Button {
+	border-radius: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	background-image: linear-gradient(to right bottom, #00e087, #00e19b, #00c9df, #007fdc, #1e8ad7);
+	border: 0px;
+
+}
+.Button:hover {
+	border-radius: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	background-image: linear-gradient(to right bottom, #0092e0, #0072e1, #0078df, #007fdc, #1e8ad7);
+	border: 0px;
+
+}
+
+.Button1 {
+	position: fixed;
+	right: 84%;
+	bottom: 55%;
+}
+
+.Button2 {
+	position: fixed;
+	right: 83%;
+	bottom: 40%;
+}
+
+.Button3 {
+	position: fixed;
+	right: 83%;
+	bottom: 25%;
+}
+
+.welcometxt{
+	position: fixed;
+	right: 41%;
+	top: 1%;
+	color: #0069ff;
+	font-size: 65px;
+	font-family: Papyrus;
+}
+.onderwelcometxt{
+	position: fixed;
+	right: 48%;
+	top: 15%;
+	color: #0069ff;
+	font-size: 40px;
+	font-family: Papyrus;
+}
+input[type=text], select {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+.txtboxes {
+	position: fixed;
+	right: 42%;
+	top: 30%;
+}
